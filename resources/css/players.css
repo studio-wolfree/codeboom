@@ -1,0 +1,118 @@
+.playerimg
+{
+	border-radius: 150px;
+	width: 80px;
+	height: 80px;
+	background-color: #fff;
+	border: 2px dashed #fff;
+	background-size: cover;
+}
+
+.char1
+{
+	background-image: url('../img/char1.png');
+	width: 80px;
+	height: 80px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.char2
+{
+	background-image: url('../img/char2.png');
+	width: 80px;
+	height: 80px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.char3
+{
+	background-image: url('../img/char3.png');
+	width: 80px;
+	height: 80px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.char4
+{
+	background-image: url('../img/char4.png');
+	width: 80px;
+	height: 80px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.player_container
+{
+	box-sizing: border-box;
+}
+
+.playerpanel
+{
+	text-shadow: 2px 2px 0px rgba(255, 255, 255, .4);
+}
+
+.left
+{
+	float: left;
+}
+
+.right
+{
+	float: right;
+}
+
+.left .playerpanel
+{
+	padding: 30px 0 30px 10px;
+	float: left;
+	text-align: left;
+}
+
+.left .ide
+{
+	position: relative;
+	left: 15%;
+	top: 30px;
+	float: right; 
+}
+
+.right .playerpanel
+{
+	text-align: right;
+	padding: 30px 30px 30px 0px;
+	float: right;
+}
+
+.right .ide
+{
+	position: relative;
+	right: 15%;
+	top: 30px;
+	float: left; 
+}
+
+.ide textarea
+{
+	text-shadow: none !important;
+	height: 48vw;
+	width: 30vw;
+}
+
+.left .player_info
+{
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+.right .player_info
+{
+	padding-top: 20px;
+	padding-right: 10px;
+}

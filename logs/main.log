@@ -1,0 +1,1 @@
+[1439003660][SQL] Could not connect to server. Server returned "SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)" on file F:\Webserver\root\codeboom\inc\Sql.php on line 60
